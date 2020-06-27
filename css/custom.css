@@ -1,0 +1,18 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+}
+
+button {
+    margin: 0px 5px;
+}
+
+.title {
+    margin-top: 200px;
+}
+
+
